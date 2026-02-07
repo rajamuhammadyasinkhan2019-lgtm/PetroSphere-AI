@@ -1,0 +1,8 @@
+{
+  "name": "PetroSphere AI: Advanced Petrology Suite",
+  "description": "A world-class study platform for Igneous, Metamorphic, and Sedimentary Petrology featuring image generation, search grounding, and geological mapping powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
